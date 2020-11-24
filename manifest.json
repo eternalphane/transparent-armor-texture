@@ -1,18 +1,17 @@
 {
-    "format_version": 2,
+    "format_version": 1,
     "header": {
-        "description": "Textures of transparent armors | Github: @eternalphane",
+        "description": "Textures of transparent armors\nGitHub Repo: https://github.com/eternalphane/transparent-armor-texture",
         "name": "Transparent Armor Resource Pack",
         "uuid": "b4b47f17-5c24-4602-a96c-b84d62d86b09",
-        "version": [0, 1, 0],
-        "min_engine_version": [0, 16, 0]
+        "version": [0, 1, 1]
     },
     "modules": [
         {
             "description": "Transparent Armor Resource Pack",
             "type": "resources",
             "uuid": "726b9457-0ba1-4e4e-b1b5-377c804ccffc",
-            "version": [0, 1, 0]
+            "version": [0, 1, 1]
         }
     ]
   }
